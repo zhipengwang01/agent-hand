@@ -1,0 +1,10 @@
+# 运行时与敏感物：绝不入库
+config.json
+*.token
+token*
+data/
+evidence/
+*.log
+__pycache__/
+*.pyc
+.DS_Store
